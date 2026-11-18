@@ -116,6 +116,7 @@ def main():
         print("=" * 60)
 
         print(answer)
+        print("\nREADME: https://github.com/bhavyasri651/RAG-Project-")
 
 
 if __name__ == "__main__":
